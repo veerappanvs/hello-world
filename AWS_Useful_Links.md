@@ -360,3 +360,4 @@ https://acloud.guru/course/aws-certified-developer-associate/discuss/-KEgz92eNM3
 
 https://acloud.guru/course/aws-certified-developer-associate/discuss/-KPMvjkpeBjAlsErR9Zt/passed-my-cda-with-96-thanks-a-lot-acloudguru-ryan-
 
+http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html
