@@ -1,18 +1,10 @@
-******************************************************
-
-AWS Certified Developer Associate
-
-******************************************************
+#AWS Certified Developer Associate
 
 
+***
+##List of AWS Certifications
 
-================================================================================
-
-List of Certifications
-
-================================================================================
-
-
+***
 
 Certified Developer Associate -  Your technical expertise in developing and maintaining applications on the AWS platform.
 
@@ -26,11 +18,11 @@ Ceritified Solutions Architect Professional -  Your advanced technical skills an
 
 
 
-================================================================================
+***
 
-Exam Blue Print
+##AWS CDA - Exam Blue Print
 
-================================================================================
+***
 
 AWS Fundamentals - 10%
 
@@ -42,255 +34,115 @@ Debuggin - 20%
 
 
 
-================================================================================
-
-AWS Services - Categories
-
-================================================================================
-
-
-
-Compute
-
-Storage & Content Delivery
-
-Database
-
-Networking
-
-Developer Tools
-
-Management Tools
-
-Security & Identity
-
-Analytics
-
-Application Services
-
-Enterprise Applications
-
-Mobile Services
-
-Game Development
-
-Internet of Things
-
-
-
-================================================================================
-
-AWS Services - Detailed
-
-================================================================================
-
-Compute
-
-    EC2
-
-    EC2 Container Service
-
-    Elastic Beanstalk
-
-    Lambda
-
-Storage & Content Delivery
-
-    S3
-
-    CloudFront
-
-    Elastic File System
-
-    Glacier
-
-    Snowball
-
-    Storage Gateway
-
-Database
-
-    RDS
-
-    DynamoDB
-
-    ElastiCache
-
-    Redshift
-
-    DMS
-
-Networking
-
-    VPC
-
-    Direct Connect
-
-    Route 53
-
-Developer Tools
-
-    CodeCommit
-
-    CodeDeploy
-
-    CodePipeline
-
-Management Tools
-
-    CloudWatch
-
-    CloudFormation
-
-    CloudTrail
-
-    Config
-
-    OpsWorks
-
-    Service Catalog
-
-    Trusted Advisor
-
-Security & Identity
-
-    IAM - Manage User Access and Encryption Keys
-
-    Directory Service - Host and Manage Active Directory
-
-    Inspector - Analyze Application Security
-
-    WAF - Filter Malcicous Web Traffic
-
-    Certificate Manager - Provision, Manage, Deploy & Renew SSL/TLs Certificates
-
-Analytics
-
-    EMR
-
-    Data Pipeline
-
-    Elasticsearch Service
-
-    Kinesis
-
-    Machine Learning
-
-Internet of Things
-
-    AWS IoT
-
-Game Development
-
-    GameLift
-
-Mobile Services
-
-    Mobile Hub
-
-    Cognito
-
-    Device Farm
-
-    Mobile Analytics
-
-    SNS
-
-Application Services
-
-    API Gateway
-
-    AppStream
-
-    CloudSearch
-
-    Elastic Transcoder
-
-    SES
-
-    SQS
-
-    SWF
-
-Enterprise Applications
-
-    WorkSpaces
-
-    WorkDocs
-
-    WorkMail
-
-
-
-================================================================================
-
-Security & Identity Management
-
-================================================================================
-
-Users
-
-Groups
-
-Roles
-
-Policies
-
-
-
-
-
-================================================================================
-
-How I did AWSCDA
-
-================================================================================
-
-Take
-
-
-
-================================================================================
-
-Udemy Topics
-
-================================================================================
+***
+
+##How I did AWSCDA
+
+***
+
+[Take Udemy Course AWS Certified Developer - Associate 2016 by Ryan Kroonenburg ](https://www.udemy.com/aws-certified-developer-associate/)
+
+Read the services FAQs
+	
+	*[AWS FAQs Index](https://aws.amazon.com/faqs/)
+	
+	*[Elastic Compute Cloud](https://aws.amazon.com/ec2/faqs/)
+	
+	*[DynamoDB](https://aws.amazon.com/dynamodb/faqs/)
+	
+	*[Simple Storage Service](https://aws.amazon.com/s3/faqs/)
+	
+	*[Virtual Private Cloud](https://aws.amazon.com/vpc/faqs/)
+	
+	*[Identity and Access Management](https://aws.amazon.com/iam/faqs/)
+	
+	*[Lambda](https://aws.amazon.com/lambda/faqs/)
+	
+	*[Auto Scaling](http://docs.aws.amazon.com/autoscaling/)
+	
+	*[Elastic Load Balancing - Application Load Balancer](https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/faqs/)
+	
+	*[Elastic Load Balancing - Classic Load Balancer](https://aws.amazon.com/elasticloadbalancing/classicloadbalancer/faqs/)
+	
+	*[Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/faqs/)
+	
+	*[CloudFront](https://aws.amazon.com/cloudfront/faqs/)
+	
+	*[CloudFormation](https://aws.amazon.com/cloudformation/faqs/)
+	
+	*[SNS](https://aws.amazon.com/sns/faqs/)
+	
+	*[SQS](https://aws.amazon.com/sqs/faqs/)
+	
+	*[SWF](https://aws.amazon.com/swf/faqs/)
+	
+	*[API Gateway](https://aws.amazon.com/api-gateway/faqs/)
+	
+[Take AWS Learning Quests -> Exam Prep: Developer - Associate](https://qwiklabs.com/learning_paths/20/lab_catalogue)
+
+[AWS Documentation in Kindle Format](https://www.amazon.com/Amazon-Web-Services/e/B007R6MVQ6)
+
+***
+
+##AWS Services covered in Udemy CDA Course
+
+***
 
 AWS Overview
 
-CloudFormation - deployment
+CloudFormation
 
-DynamoDB - nosql db
+DynamoDB
 
-EC2 - servers 
+EC2 
 
-Elastic Beanstalk - we deploymnet
+Elastic Beanstalk
 
-IAM - user, groups, role policues
+IAM
 
-S3 - storage - standard, ia, rrs, glacier
+S3
 
-SNS - tpoic
+SNS
 
-SQS - queue
+SQS
 
-SWF - bpm
+SWF
 
 VPC
 
 
+***
 
-aws ec2 descrivbe-instances
+##Quest Labs Topics - Exam Prep: Developer - Associate
 
-cli, cloudformation
+***
+
+Introduction to AWS Identity and Access Management (IAM)
+
+Introduction to AWS Lambda
+
+Introduction to Amazon API Gateway
+
+Programming AWS Security Token Service (STS) with .NET
+
+Building Scalable Web Applications with AWS Elastic Beanstalk
+
+Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS Lambda
+
+Serverless Architectures using Amazon CloudWatch Events and Scheduled Events with AWS Lambda
+
+Maintaining High Availability with Auto Scaling (for Linux)
+
+Caching Static Files with Amazon CloudFront
+
+Launching and Managing a Web Application with AWS CloudFormation
 
 
+***
 
-================================================================================
+##Exam Pass - TO-DOs
 
-Exam Pass - TO-DOs
-
-================================================================================
+***
 
 https://acloud.guru/course/aws-certified-developer-associate/discuss/-KPuWHwfTCiCJNsGzAwu/passed 
 
@@ -307,8 +159,6 @@ http://docs.aws.amazon.com/AmazonS3/latest/dev/SSEUsingRESTAPI.html
 http://docs.aws.amazon.com/sns/latest/api/API_Publish.html 
 
 http://docs.aws.amazon.com/sns/latest/dg/mobile-push-send-devicetoken.html
-
-
 
 Udemy Course
 
@@ -330,21 +180,13 @@ Review Certification Prep - https://aws.amazon.com/certification/certification-p
 
 Read Exam BluePrint
 
-
-
-
-
 dynamodb, ELB, AMI, S3, Elastic Beanstalk etc
 
+***
 
+##Other links
 
-================================================================================
-
-Other links
-
-================================================================================
-
-
+***
 
 http://www.kpbird.com/2013/09/aws-sdk-for-java-tutorial-1-introduction.html
 
@@ -361,3 +203,6 @@ https://acloud.guru/course/aws-certified-developer-associate/discuss/-KEgz92eNM3
 https://acloud.guru/course/aws-certified-developer-associate/discuss/-KPMvjkpeBjAlsErR9Zt/passed-my-cda-with-96-thanks-a-lot-acloudguru-ryan-
 
 http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html
+
+https://aws.amazon.com/documentation/
+
