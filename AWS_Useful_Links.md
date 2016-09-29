@@ -40,47 +40,45 @@ Debuggin - 20%
 
 ***
 
-[Take Udemy Course AWS Certified Developer - Associate 2016 by Ryan Kroonenburg ](https://www.udemy.com/aws-certified-developer-associate/)
+*[Take Udemy Course AWS Certified Developer - Associate 2016 by Ryan Kroonenburg ](https://www.udemy.com/aws-certified-developer-associate/)
 
-Read the services FAQs
-	
-	*[AWS FAQs Index](https://aws.amazon.com/faqs/)
-	
-	*[Elastic Compute Cloud](https://aws.amazon.com/ec2/faqs/)
-	
-	*[DynamoDB](https://aws.amazon.com/dynamodb/faqs/)
-	
-	*[Simple Storage Service](https://aws.amazon.com/s3/faqs/)
-	
-	*[Virtual Private Cloud](https://aws.amazon.com/vpc/faqs/)
-	
-	*[Identity and Access Management](https://aws.amazon.com/iam/faqs/)
-	
-	*[Lambda](https://aws.amazon.com/lambda/faqs/)
-	
-	*[Auto Scaling](http://docs.aws.amazon.com/autoscaling/)
-	
-	*[Elastic Load Balancing - Application Load Balancer](https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/faqs/)
-	
-	*[Elastic Load Balancing - Classic Load Balancer](https://aws.amazon.com/elasticloadbalancing/classicloadbalancer/faqs/)
-	
-	*[Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/faqs/)
-	
-	*[CloudFront](https://aws.amazon.com/cloudfront/faqs/)
-	
-	*[CloudFormation](https://aws.amazon.com/cloudformation/faqs/)
-	
-	*[SNS](https://aws.amazon.com/sns/faqs/)
-	
-	*[SQS](https://aws.amazon.com/sqs/faqs/)
-	
-	*[SWF](https://aws.amazon.com/swf/faqs/)
-	
-	*[API Gateway](https://aws.amazon.com/api-gateway/faqs/)
-	
-[Take AWS Learning Quests -> Exam Prep: Developer - Associate](https://qwiklabs.com/learning_paths/20/lab_catalogue)
+*[AWS FAQs Index](https://aws.amazon.com/faqs/)
 
-[AWS Documentation in Kindle Format](https://www.amazon.com/Amazon-Web-Services/e/B007R6MVQ6)
+*[Elastic Compute Cloud FAQs](https://aws.amazon.com/ec2/faqs/)
+
+*[DynamoDB FAQs](https://aws.amazon.com/dynamodb/faqs/)
+
+*[Simple Storage Service FAQs](https://aws.amazon.com/s3/faqs/)
+
+*[Virtual Private Cloud FAQs](https://aws.amazon.com/vpc/faqs/)
+
+*[Identity and Access Management FAQs](https://aws.amazon.com/iam/faqs/)
+
+*[Lambda FAQs](https://aws.amazon.com/lambda/faqs/)
+
+*[Auto Scaling FAQs](http://docs.aws.amazon.com/autoscaling/)
+
+*[Elastic Load Balancing - Application Load Balancer FAQs](https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/faqs/)
+
+*[Elastic Load Balancing - Classic Load Balancer FAQs](https://aws.amazon.com/elasticloadbalancing/classicloadbalancer/faqs/)
+
+*[Elastic Beanstalk FAQs](https://aws.amazon.com/elasticbeanstalk/faqs/)
+
+*[CloudFront FAQs](https://aws.amazon.com/cloudfront/faqs/)
+
+*[CloudFormation FAQs](https://aws.amazon.com/cloudformation/faqs/)
+
+*[SNS FAQs](https://aws.amazon.com/sns/faqs/)
+
+*[SQS FAQs](https://aws.amazon.com/sqs/faqs/)
+
+*[SWF FAQs](https://aws.amazon.com/swf/faqs/)
+
+*[API Gateway](https://aws.amazon.com/api-gateway/faqs/)
+
+*[Take AWS Learning Quests -> Exam Prep: Developer - Associate](https://qwiklabs.com/learning_paths/20/lab_catalogue)
+
+*[AWS Documentation in Kindle Format](https://www.amazon.com/Amazon-Web-Services/e/B007R6MVQ6)
 
 ***
 
